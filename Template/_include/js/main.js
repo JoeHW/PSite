@@ -79,8 +79,10 @@ BRUSHED.slider = function(){
 		slides 					:  	[			// Slideshow Images
 											{image : '_include/img/slider-images/image01.jpg', title : '<div class="slide-content">Hello There</div>', thumb : '', url : ''},
 											{image : '_include/img/slider-images/image02.jpg', title : '<div class="slide-content">React and Redux</div>', thumb : '', url : ''},
-											{image : '_include/img/slider-images/image03.jpg', title : '<div class="slide-content">UX and UI Design</div>', thumb : '', url : ''},
-											{image : '_include/img/slider-images/image04.jpg', title : '<div class="slide-content">Angular</div>', thumb : '', url : ''}
+											{image : '_include/img/slider-images/image01.jpg', title : '<div class="slide-content">Angular</div>', thumb : '', url : ''},
+											{image : '_include/img/slider-images/image03.jpg', title : '<div class="slide-content">UX & UI Design</div>', thumb : '', url : ''},
+											{image : '_include/img/slider-images/image01.jpg', title : '<div class="slide-content">Meteor</div>', thumb : '', url : ''},
+											{image : '_include/img/slider-images/image04.jpg', title : '<div class="slide-content">HTML5</div>', thumb : '', url : ''}
 									],
 
 		// Theme Options
