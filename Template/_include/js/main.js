@@ -82,7 +82,7 @@ BRUSHED.slider = function(){
 											{image : '_include/img/slider-images/image01.jpg', title : '<div class="slide-content">Angular</div>', thumb : '', url : ''},
 											{image : '_include/img/slider-images/image03.jpg', title : '<div class="slide-content">UX & UI Design</div>', thumb : '', url : ''},
 											{image : '_include/img/slider-images/image01.jpg', title : '<div class="slide-content">Meteor</div>', thumb : '', url : ''},
-											{image : '_include/img/slider-images/image04.jpg', title : '<div class="slide-content">HTML5</div>', thumb : '', url : ''}
+											{image : '_include/img/slider-images/image04.jpg', title : '<div class="slide-content">HTML5 Css Js</div>', thumb : '', url : ''}
 									],
 
 		// Theme Options
