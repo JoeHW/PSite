@@ -78,6 +78,7 @@ BRUSHED.slider = function(){
 		thumbnail_navigation    :   0,			// Thumbnail navigation
 		slides 					:  	[			// Slideshow Images
 											{image : '_include/img/slider-images/image01.jpg', title : '<div class="slide-content">Hello There</div>', thumb : '', url : ''},
+											{image : '_include/img/slider-images/image01.jpg', title : '<div class="slide-content">Angular</div>', thumb : '', url : ''},
 											{image : '_include/img/slider-images/image02.jpg', title : '<div class="slide-content">React and Redux</div>', thumb : '', url : ''},
 											{image : '_include/img/slider-images/image01.jpg', title : '<div class="slide-content">Node</div>', thumb : '', url : ''},
 											{image : '_include/img/slider-images/image03.jpg', title : '<div class="slide-content">UX & UI Design</div>', thumb : '', url : ''},
